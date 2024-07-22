@@ -1,0 +1,1 @@
+"Saya menggunakan Expo. Untuk menjalankan aplikasi, Anda dapat menginstal Expo Go pada perangkat seluler Anda. Setelah itu, di terminal, jalankan perintah npx expo start. Akan terdapat kode QR; pindai kode QR tersebut dan aplikasi sudah dapat dijalankan."

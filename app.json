@@ -14,16 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "package":"com.jsm.malist"
+      "package": "com.jsm.malist"
     },
     "android": {
-      "adaptiveIcon": 
-      {
+      "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package":"com.jsm.malist"
-
+      "package": "com.jsm.malist"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -31,6 +29,14 @@
     "plugins": [
       "expo-router",
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c444a85e-34a0-42fd-9f55-3d83202ecd01"
+      }
+    }
   }
 }

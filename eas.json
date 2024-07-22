@@ -23,8 +23,6 @@
     }
   },
   "submit": {
-    "android": {
-      "production": {}
-    }
+    "android": {}
   }
 }

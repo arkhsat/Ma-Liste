@@ -2,7 +2,9 @@
   "expo": {
     "name": "Ma-Liste",
     "slug": "Ma-Liste",
-    "scheme": "MaListe",
+    "scheme": [
+      "MaListe"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/MaList4.png",
@@ -14,7 +16,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "package": "com.jsm.malist"
+      "bundleIdentifier": "com.jsm.malist"
     },
     "android": {
       "adaptiveIcon": {
